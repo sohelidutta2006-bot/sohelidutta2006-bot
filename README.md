@@ -16,3 +16,22 @@ I love building practical projects, solving problems, and learning new technolog
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,linux,aws,docker,kubernetes" />
 </p>
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/soheli-dutta-8634b836a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/sohelidutta2006-bot">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:sohelidutta@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.instagram.com/julysd030206/?hl=en">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="1503826747270107378">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
