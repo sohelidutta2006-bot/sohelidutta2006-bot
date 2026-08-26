@@ -14,7 +14,7 @@ I love building practical projects, solving problems, and learning new technolog
 ### 🤖 AI/ML & Currently Exploring
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,linux,aws,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,linux,aws" />
 </p>
 ## 🔗 Connect With Me
 
