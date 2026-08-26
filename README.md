@@ -35,3 +35,11 @@ I love building practical projects, solving problems, and learning new technolog
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
+## 🚀 Developer's Mindset
+
+> "Don't focus on being the best developer in the room.  
+> Focus on being better than the developer you were yesterday."
+
+Every bug is a lesson, every project is an opportunity to grow, and every line of code is a step forward.
+
+**Build. Break. Debug. Learn. Repeat. 💻🔥**
